@@ -1,0 +1,31 @@
+# Node / frontend
+node_modules/
+dist/
+build/
+.next/
+coverage/
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Python / agent
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

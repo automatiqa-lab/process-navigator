@@ -14,13 +14,13 @@ Business and supply-chain people who run real processes and do not write code. I
 
 ## Why it exists
 
-Research in July 2026 turned up plenty of pieces of this problem in the open-source world, but nothing that put them together: a guided canvas methodology, a focus on automation opportunities specifically, a co-working agent, and an audience of non-technical operators. Each part exists somewhere. The combination did not. Navigator is that combination.
+There are plenty of pieces of this problem in the open-source world, but nothing that puts them together: a guided canvas methodology, a focus on automation opportunities specifically, a co-working agent, and an audience of non-technical operators. Each part exists somewhere. The combination does not. Navigator is that combination.
 
 ## How it's built
 
-Navigator follows spec-driven development. The order is Constitution, then Spec, then Plan, then Tasks, with a review gate between each phase. No implementation starts before the spec is signed off, because for a project like this the methodology is the product.
+The methodology comes before the code. What Navigator asks, in what order, and how it reasons about an opportunity is specified and reviewed before anything is implemented, because for a tool like this the methodology is the product.
 
-The build is deliberate about what to make and what to borrow. The parts that carry the learning and the differentiation get built from scratch: the agent orchestration, the methodology engine, and the two-way sync between the agent and the canvas state. The parts that are solved commodities get pulled off the shelf: canvas rendering and the LLM plumbing. Dependencies are MIT or Apache-2.0 only.
+The parts that make Navigator distinct are built directly: the agent orchestration, the methodology engine, and the two-way sync between the agent and the canvas state. The parts that are solved commodities are pulled off the shelf: canvas rendering and the LLM plumbing. Dependencies are MIT or Apache-2.0 only.
 
 ## Principles
 
@@ -30,7 +30,7 @@ The build is deliberate about what to make and what to borrow. The parts that ca
 
 ## Status
 
-Early. The project is in its spec-driven phase, ahead of implementation.
+Early. The methodology is being defined ahead of implementation.
 
 ## License
 

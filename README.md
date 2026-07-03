@@ -1,4 +1,4 @@
-# Navigator
+# Process Navigator
 
 A guided canvas for finding automation opportunities in the way you already work, with an AI agent working alongside you on the same board.
 

@@ -34,4 +34,4 @@ Early. The methodology is being defined ahead of implementation. Procez.io will 
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+Apache-2.0. See [LICENSE](LICENSE).
